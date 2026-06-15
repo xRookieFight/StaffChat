@@ -2,6 +2,8 @@
 
 A lightweight PaperMC plugin that adds prefix-based staff and admin chat channels. Staff members can talk to each other privately by prefixing their messages, without leaking into public chat.
 
+<img src=".github/img.png">
+
 ## Features
 
 - **Prefix-based channels** — type a prefix in front of your message to route it to a channel.
