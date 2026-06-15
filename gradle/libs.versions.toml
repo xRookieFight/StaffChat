@@ -1,0 +1,13 @@
+[versions]
+paper = "1.21.4-R0.1-SNAPSHOT"
+shadow = "8.3.0"
+run-paper = "2.3.1"
+lombok = "8.4"
+
+[libraries]
+paper-api = { group = "io.papermc.paper", name = "paper-api", version.ref = "paper" }
+
+[plugins]
+shadow = { id = "com.gradleup.shadow", version.ref = "shadow" }
+run-paper = { id = "xyz.jpenilla.run-paper", version.ref = "run-paper" }
+lombok = { id = "io.freefair.lombok", version.ref = "lombok" }

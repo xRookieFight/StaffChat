@@ -1,0 +1,17 @@
+name: StaffChat
+version: '1.0.0'
+main: com.erilanetwork.staffchat.Plugin
+api-version: '1.21.4'
+authors: [ xRookieFight ]
+commands:
+  staffchat:
+    description: StaffChat yonetim komutu
+    usage: /staffchat reload
+    aliases: [ sc ]
+permissions:
+  erila.admin.chat:
+    default: op
+  erila.staff.chat:
+    default: op
+  erila.staffchat.reload:
+    default: op
