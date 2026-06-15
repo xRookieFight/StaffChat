@@ -1,9 +1,0 @@
-channels:
-  admin:
-    prefix: "**"
-    permission: erila.admin.chat
-    format: "<dark_red>[AdminChat] <gray><player>: <white><message>"
-  staff:
-    prefix: "*"
-    permission: erila.staff.chat
-    format: "<blue>[StaffChat] <gray><player>: <white><message>"

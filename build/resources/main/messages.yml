@@ -1,7 +1,0 @@
-command:
-  usage: "<yellow>Usage: /<label> reload"
-  no-permission: "<red>You don't have permission to do that."
-  reloaded: "<green>StaffChat configuration reloaded."
-log:
-  enabled: "StaffChat enabled!"
-  disabled: "StaffChat disabled!"
